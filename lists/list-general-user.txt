@@ -1,0 +1,3 @@
+# Never leave this file empty
+domain.example.abc
+# purplenautiluswave/TelegramObhod 653173389d1f
